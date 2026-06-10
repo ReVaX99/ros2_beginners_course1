@@ -1,0 +1,3 @@
+bool empty_battery
+---
+bool led_on_success

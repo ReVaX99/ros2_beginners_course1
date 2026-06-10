@@ -1,0 +1,7 @@
+<launch>
+    <node pkg="turtlesim" exec="turtlesim_node" />
+    <node pkg="turtle_project" exec="turtle_spawner">
+        <param name="spawn_period" value="1.5" />
+    </node>
+    <node pkg="turtle_project" exec="turtle_controller" />
+</launch>  
