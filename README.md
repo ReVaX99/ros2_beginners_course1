@@ -11,3 +11,5 @@ This repository includes the following content:
 - First hand-on project using the turtlebot package.
 
 In this repository, all the contents from the course undertaken can be found with all personal comments, as well as all templates and the final project after `turtle_project_bringup`
+
+The obtained certificate after completion of the course can be found in the following link: [Certificate](https://www.udemy.com/certificate/UC-b39013a5-98ce-439c-8789-0b54ebfa0905/)
