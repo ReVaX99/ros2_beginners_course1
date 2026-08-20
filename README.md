@@ -1,4 +1,4 @@
-# ros2_beginners_course1
+# ROS 2 for Beginners: Course 1
 Course to learn ROS2 basic concepts and perform first hands-on project.
 
 The content of the course is based on the ROS 2 for beginners (ROS 2 Jazzy - 2026) course on Udemy from Edouard Renard. [Link to the course](https://www.udemy.com/course/ros2-for-beginners/?couponCode=CP260817G2)
